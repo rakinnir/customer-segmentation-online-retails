@@ -1,4 +1,4 @@
-# Customer Segmentation of Online retail
+# Customer Segmentation of Online retails
 
 ## Project Overview
 This project focuses on analyzing customer behavior to segment them into meaningful groups using RFM (Recency, Frequency, Monetary) analysis and clustering techniques. By segmenting customers, businesses can tailor marketing strategies, optimize resources, and enhance customer engagement.
