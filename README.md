@@ -10,6 +10,7 @@ This project focuses on analyzing customer behavior to segment them into meaning
 
 ## Key visualizations
 ![](Results/Primary4group.png)
+![](Results/summary_viz.png)
 
 ## Key Features
 1. **RFM Analysis**: Measuring customer behavior using:
