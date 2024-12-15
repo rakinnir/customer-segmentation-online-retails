@@ -8,6 +8,9 @@ This project focuses on analyzing customer behavior to segment them into meaning
 - Identify actionable insights for each customer segment.
 - Provide strategies to target each segment effectively.
 
+## Key visualizations
+![](Results/Primary4group.png)
+
 ## Key Features
 1. **RFM Analysis**: Measuring customer behavior using:
    - **Recency**: How recently a customer purchased.
