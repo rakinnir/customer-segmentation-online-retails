@@ -109,8 +109,4 @@ This project focuses on analyzing customer behavior to segment them into meaning
 - Test other clustering algorithms (e.g., DBSCAN, hierarchical clustering).
 - Integrate real-time segmentation with live transaction data.
 
-## Contact
-For questions or feedback, feel free to reach out:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
