@@ -93,16 +93,6 @@ This project focuses on analyzing customer behavior to segment them into meaning
 4. **Insights & Strategies**:
    - Mapped each cluster to business strategies.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/customer-segmentation.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-3. Open the Jupyter Notebook and run the analysis.
 
 ## Future Enhancements
 - Incorporate additional customer attributes (e.g., demographics).
